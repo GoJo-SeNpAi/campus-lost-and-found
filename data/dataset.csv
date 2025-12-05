@@ -1,0 +1,32 @@
+id,kind,description,image_path,object,color
+1,found,navy blue backpack,data/images/found_001.jpg,backpack,navy blue
+2,found,white and grey backpack,data/images/found_002.jpg,backpack,white
+3,found,barbie backpack,data/images/found_003.jpg,backpack,pink
+4,found,green binoculars with orange shades,data/images/found_004.jpg,binocular,green
+5,found,red boxing gloves,data/images/found_005.jpg,boxing gloves,red
+6,found,basic White calculator,data/images/found_006.jpg,calculator,white
+7,found,Scientific calculator,data/images/found_007.jpg,calculator,black
+8,found,brown chessboard,data/images/found_008.jpg,chessboard,brown
+9,found,red chessboard,data/images/found_009.jpg,chessboard,red
+10,found,Steel coffee mug,data/images/found_010.jpg,coffeemug,silver
+11,found,White ceramic coffee mug,data/images/found_011.jpg,coffeemug,white
+12,found,White hat,data/images/found_012.jpg,hat,white
+13,found,blue guitar,data/images/found_013.jpg,guitar,blue
+14,found,black guitar,data/images/found_014.jpg,guitar,black
+15,found,White guitar,data/images/found_015.jpg,guitar,white
+16,found,orange frame eyeglasses,data/images/found_016.jpg,eyeglasses,orange
+17,found,black frame round eyeglasses,data/images/found_017.jpg,eyeglasses,black
+18,found,yellow flashlight,data/images/found_018.jpg,flashlight,yellow
+19,found,black flashlight,data/images/found_019.jpg,flashlight,black
+20,found,White ipod musicplayer,data/images/found_020.jpg,ipod musicplayer,white
+21,found,black ipod musicplayer,data/images/found_021.jpg,ipod musicplayer,black
+22,found,cyan ipod musicplayer,data/images/found_022.jpg,ipod musicplayer,cyan
+23,found,grey laptop,data/images/found_023.jpg,laptop,grey
+24,found,red necktie,data/images/found_024.jpg,tie,red
+25,found,red shoe,data/images/found_025.jpg,shoe,red
+26,found,black shoe,data/images/found_026.jpg,shoe,black
+27,found,blue umbrella,data/images/found_027.jpg,umbrella,blue
+28,found,black umbrella,data/images/found_028.jpg,umbrella,black
+29,found,golden dial black strap watch,data/images/found_029.jpg,watch,black
+30,found,red waterbottle,data/images/found_030.jpg,waterbottle,red
+31,found,pink waterbottle,data/images/found_031.jpg,waterbottle,pink
